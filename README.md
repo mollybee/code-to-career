@@ -23,8 +23,8 @@ Resources and checklists to ~~sneak my way into~~ software development
     - [ ] Create two portfolio projects
     - [x] Host personal website on GitHub Pages
 - [x] Create Codepen.io account
-  - [ ] 30-days of code challenge
-  - [ ] Update dashboard to highlight best snippets
+    - [ ] 30-days of code challenge
+    - [ ] Update dashboard to highlight best snippets
   ```
 
 ## Personal Projects
