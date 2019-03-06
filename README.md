@@ -6,20 +6,24 @@ Resources and checklists to ~~sneak my way into~~ software development
 
 ### Social
 
-- [] Lockdown Facebook
+- [*] Lockdown Facebook
   - Hide adorable photos of 👶s
-- [ ] Create / Update LinkedIn
-- [ ] Create Twitter account, follow influencers
+- [*] Create / Update LinkedIn
+    - [ ] Update profile picture to more professional one
+- [*] Create Twitter account
+    - [ ] follow influencers
+- [ ] Password Manager
 
 
 ### Street Cred 
 
-- [ ] Create StackOverflow account
+- [*] Create StackOverflow account
   - [ ] Achieve 200+ SO points
 - [ ] Update GitHub account
   - [ ] Create two portfolio projects
-  - [ ] Host personal website on GitHub Pages
-- [ ] Create Codepen.io account
+  - [*] Host personal website on GitHub Pages
+    - [ ] Project in process?
+- [*] Create Codepen.io account
   - [ ] 30-days of code challenge
   - [ ] Update dashboard to highlight best snippets
 
